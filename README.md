@@ -13,8 +13,7 @@ Automated testing framework using Behave (BDD) and Playwright for web applicatio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/pp-automation-class/lmg-test.git
-cd lmg-test
+
 ```
 
 ### 2. Install Poetry (if not already installed)
